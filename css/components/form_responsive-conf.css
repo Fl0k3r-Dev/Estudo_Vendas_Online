@@ -17,7 +17,7 @@
 	input{
 
 		font-size: 14pt;
-		height: 40rem;
+		height: 3rem;
 	}
 
 	button:focus,
@@ -34,6 +34,7 @@
 	button{
 
 		transition: all .2s;
+		height: 4rem;
 	}
 
 	button:hover{
