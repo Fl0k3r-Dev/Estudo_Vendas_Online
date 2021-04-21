@@ -20,9 +20,13 @@
 				
 				<div class="inputs">
 					<input type="text" name="user" placeholder="E-mail ou Usuário">	
-					<input type="password" name="pass" placeholder="Senha">
+					<div class="inputs">
+						<input type="password" name="pass" placeholder="Senha">
+						<div class="password-text">
+							<a class="link" href="">Esqueceu sua senha?</a>
+						</div>
+					</div>
 				</div>
-					<a class="link" href="">Esqueceu sua senha?</a>
 
 					<button type="submit">Adicionar à sacola</button>
 			</fieldset>
