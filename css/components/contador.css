@@ -1,0 +1,22 @@
+.div_sacola{
+
+    position:relative;
+}
+
+.contador{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    background: red;
+    width: 2.4rem;
+    height: 2.4rem;
+    border-radius: 5rem;
+    z-index: 1;
+    bottom: 1rem;
+    right: 0;
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
